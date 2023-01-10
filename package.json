@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
-    "build": "webpack --config=Scripts/config/webpack.build.js",
+    "build": "webpack --config=Scripts/config/webpack.build.js --watch",
   },
   "scripts": {
     "start": "node index.js",
