@@ -2,7 +2,7 @@
   "name": "nodejs-hello-world",
   "version": "1.0.0",
   "description": "Hello World sample app",
-  "main": "index.js",z
+  "main": "index.js",
   "scripts": {
     "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
     "build": "webpack --config=Scripts/config/webpack.prod.js",
